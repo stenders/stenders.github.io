@@ -1,0 +1,33 @@
+html,
+body {
+  background-color: #000;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  font-family: Helvetica, sans-serif;
+}
+
+#bm {
+  width: 100%;
+  height: 100%;
+}
+
+button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background-color: #fff;
+  color: #000;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+a {
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+  color: #fff;
+}
